@@ -1,2 +1,3 @@
 # Hello-World
 This is the beginning of a life long journey.......
+Today November 3rd, 2020 I am starting a course in Python A_Z and I am also working on a book Python for Data Analyses, so I will be using this platform to practice, and share my growth as I go. 
